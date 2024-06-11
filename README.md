@@ -13,7 +13,7 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://Hun425.github.io">
+  <a href="https://velog.io/@chae0738/posts">
     <img src="https://img.shields.io/badge/Velog Blog-greenwhite?style=plastic&logo=Velog&logoColor=white"/>
   </a>
 </span>
