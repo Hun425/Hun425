@@ -68,7 +68,7 @@ Reseach on BackEnd Develop
 
 <br><br>
 <!-- Hit counter -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40chae0738%2Fpost&count_bg=%2344D3DB&title_bg=%23555555&icon=publons.svg&icon_color=%23E7E7E7&title=velog&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40chae0738%2Fpost&count_bg=%2344D3DB&title_bg=%23555555&icon=publons.svg&icon_color=%23E7E7E7&title=velog&edge_flat=false)](https://velog.io/@chae0738/posts)
 <br><br><br><br>
 
 <!-- Footer banner -->
