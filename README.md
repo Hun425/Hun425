@@ -1,89 +1,70 @@
-# 이력서
+<div align="center">
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<br><br>
+    
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Hun425+GIT+HUB;Research+on+BackEnd+Development" alt="Typing SVG" /></a>
+<br>
+<div align="center">  
+<br>
+<!-- My CV/resume -->
+<details>
+<summary>About Me</summary>
+<br><br>
+<span>
+  <a href="https://Hun425.github.io">
+    <img src="https://img.shields.io/badge/Velog Blog-greenwhite?style=plastic&logo=Velog&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="mailto:chae0738@naver.com">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+   
+<br><br>
 
+## OBJECTIVE
+Reseach on BackEnd Develop
 
-### **개인정보**
+## EDUCATION
 
----
+경상국립대학교 ```(03/2017 ~ 08/2023)```  
+삼성 청년 아카데미 11기  ```(01/2024 ~ Present)``` 
 
-**이름 I** 채기훈 / Chae Ki Hun
-
-**생년월일 I** 1998. 11. 28.
-
-**거주지 I** 광주광역시 장덕동 1081 
-
-**전화번호 I** 010-6278-8593
-
-**이메일 I** chae0738@gmail.com
-
-**희망 직무** **I** 백엔드 개발자
-
-### **학력사항**
-
----
-
-**2014. 3. ~ 2017. 2. 졸업**  광양백운고등학교
-
-**2017. 3. ~ 2023. 8. 졸업**  경상대학교 도시공학과/스마트도시건설 복수전공
-
-[학      점]   3.24  /  4.5
-
-### 교육 및 활동
-
----
-
-**2023. 03. - 2023. 05.**   파이썬 기반 인공지능 기본 교육
-
-[활동구분] 교육활동 (전남ICT이노베이션)
-
-[활동내용] 
-
-- 파이썬 기본 문법 학습
-- 기본적인 AI 알고리즘 개념 학습
-
-**2023. 06. - 2023. 08.**  AWS 기본 교육
-
-[활동구분] 교육활동 ****(전남ICT이노베이션)
-
-[활동내용]  
-
-- 전반적인 네트워크 인프라에 대한 공부
-- AWS 서버 구축실습(AWS EC2)
-
-**2023.  09. - 2023. 11.**   HRD 코딩 팀프로젝트
-
-[활동구분] 교육활동 **** (HRD교육센터)
-
-[활동내용]  
-
-- C언어와 파이썬의 기본 문법 학습
-- 학습한 언어를 활용한 팀프로젝트 실습
-
-**2024.  01. - 2024. 12.**   SSAFY 11기
-
-[활동구분] 교육활동 **** (삼성청년SW아카데미)
-
-[활동내용]  
+## ADDITIONAL SKILLS
+<span>
+    <img src="https://img.shields.io/badge/ Spring-blackgreen?style=plastic&logo=Spring&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Java-blackgreen?style=plastic&logo=Java&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Python-blue?style=plastic&logo=Python&logoColor=white"/>
+</span>
 
 
 
-### 프로젝트
 
----
+</div>
+</div>
 
-https://github.com/Hun425/finalpjt
+</details>
+<br><br>
+<div align="center">
+<!-- My profile -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hun425&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=Hun425&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hun425&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
+<!-- My snake -->
 
+<br><br>
+<!-- Hit counter -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40chae0738%2Fpost&count_bg=%2344D3DB&title_bg=%23555555&icon=publons.svg&icon_color=%23E7E7E7&title=velog&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br><br><br>
 
-### 수상
-
----
-
-**2023. 11.**  HRD 코딩 팀프로젝트 최우수상 **I** HRD 교육센터
-
-### 자격증
-
----
-
-**2024. 06.** 정보처리기사
-
-**2023. 11.** Cos pro 파이썬 1급
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
