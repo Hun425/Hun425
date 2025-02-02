@@ -9,9 +9,8 @@
 <div align="center">  
 <br>
 <!-- My CV/resume -->
-<details>
-<summary>About Me</summary>
-<br><br>
+
+## About Me
 <span>
   <a href="https://velog.io/@chae0738/posts">
     <img src="https://img.shields.io/badge/Velog Blog-greenwhite?style=plastic&logo=Velog&logoColor=white"/>
@@ -31,8 +30,8 @@ Reseach on BackEnd Develop
 ## EDUCATION
 
 경상국립대학교 ```(03/2017 ~ 08/2023)```  
-삼성 청년 아카데미 11기  ```(01/2024 ~ Present)``` 
-
+삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)``` 
+ICTway  ```(12/2024 ~ Present)``` 
 ## SKILLS
 <span>
     <img src="https://img.shields.io/badge/ Spring-blackgreen?style=plastic&logo=Spring&logoColor=white"/>
