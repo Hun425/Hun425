@@ -30,8 +30,9 @@ Reseach on BackEnd Develop
 ## EDUCATION
 
 경상국립대학교 ```(03/2017 ~ 08/2023)```  
-삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)``` 
+삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)```  
 ICTway  ```(12/2024 ~ Present)``` 
+
 ## SKILLS
 <span>
     <img src="https://img.shields.io/badge/ Spring-blackgreen?style=plastic&logo=Spring&logoColor=white"/>
