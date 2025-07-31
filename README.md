@@ -76,7 +76,7 @@ ICTway  ```(12/2024 ~ Present)```
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40chae0738%2Fpost&count_bg=%2344D3DB&title_bg=%23555555&icon=publons.svg&icon_color=%23E7E7E7&title=velog&edge_flat=false)](https://velog.io/@chae0738/posts)
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FHun425&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 <br><br><br><br>
 
 <!-- Footer banner -->
