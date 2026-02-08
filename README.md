@@ -32,7 +32,7 @@ Reseach on BackEnd Develop
 경상국립대학교 ```(03/2017 ~ 08/2023)```  
 삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)```  
 ICTway  ```(12/2024 ~ 2025/10)```    
-Flow ```(10/2025 ~ present```
+Flow ```(10/2025 ~ present)```
 
 ## SKILLS
 <span>
