@@ -28,22 +28,26 @@
 Reseach on BackEnd Develop
 
 ## EDUCATION
-
-경상국립대학교 ```(03/2017 ~ 08/2023)```  
-삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)```  
+BeyondMedicine ```(03/2026 ~ present)```    
+Flow ```(10/2025 ~ 03/2026)```    
 ICTway  ```(12/2024 ~ 2025/10)```    
-Flow ```(10/2025 ~ present)```
+삼성 청년 아카데미 11기  ```(01/2024 ~ 12/2024)```  
+경상국립대학교 ```(03/2017 ~ 08/2023)```  
+
+
+
+
 
 ## SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ Spring-blackgreen?style=plastic&logo=Spring&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Java-blackgreen?style=plastic&logo=Java&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-blue?style=plastic&logo=Python&logoColor=white"/>
-</span>
+<!-- for-the-badge 스타일 — 크고 깔끔 -->
+<p>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Armeria-FF6600?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R2DBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jOOQ-000000?style=for-the-badge&logoColor=white"/>
+</p>
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chae0738)](https://solved.ac/chae0738)
