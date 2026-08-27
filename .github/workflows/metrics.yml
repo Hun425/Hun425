@@ -1,0 +1,57 @@
+name: Metrics
+
+on:
+  schedule: # 03:00 KST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Hun425
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # header-dark.svg 와 같은 팔레트로 맞춘다
+          extras_css: |
+            .items-wrapper {
+              background: #0D1117;
+              border: 1px solid #232B3A;
+              border-radius: 14px;
+              padding: 14px 18px;
+            }
+            svg { color: #8B949E; }
+            h1, h2, h3 { color: #E6EDF3; }
+            a { color: #A78BFA; }
+            section { border-color: #232B3A; }
+            .field, .value, .subtitle, footer { color: #8B949E; }
+            :root {
+              --color-calendar-graph-day-bg: #161B26;
+              --color-calendar-graph-day-border: rgba(255,255,255,0.06);
+              --color-calendar-graph-day-L1-bg: #3B2E6E;
+              --color-calendar-graph-day-L2-bg: #5B3FB0;
+              --color-calendar-graph-day-L3-bg: #7F52FF;
+              --color-calendar-graph-day-L4-bg: #2DD4BF;
+              --color-calendar-graph-day-L1-border: rgba(255,255,255,0.04);
+              --color-calendar-graph-day-L2-border: rgba(255,255,255,0.04);
+              --color-calendar-graph-day-L3-border: rgba(255,255,255,0.04);
+              --color-calendar-graph-day-L4-border: rgba(255,255,255,0.04);
+            }

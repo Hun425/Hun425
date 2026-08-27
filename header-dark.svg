@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Hun425 — Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141B2D"/>
+      <stop offset="0.55" stop-color="#0E1420"/>
+      <stop offset="1" stop-color="#0B0F17"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="0.5" stop-color="#4F8CFF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="span" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="280" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="3" fill="url(#accent)"/>
+
+    <!-- identity -->
+    <text x="64" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#E6EDF3">Hun425</text>
+    <text x="66" y="152" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#A78BFA" letter-spacing="2.5">BACKEND DEVELOPER</text>
+    <text x="66" y="192" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#8B949E">Reactive, non-blocking server architecture in Kotlin</text>
+    <text x="66" y="220" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#6E7681">Armeria · gRPC · Coroutines</text>
+
+    <!-- concurrent request spans -->
+    <g opacity="0.14" stroke="#8B949E" stroke-width="1">
+      <line x1="756" y1="56" x2="756" y2="228"/>
+      <line x1="856" y1="56" x2="856" y2="228"/>
+      <line x1="956" y1="56" x2="956" y2="228"/>
+      <line x1="1056" y1="56" x2="1056" y2="228"/>
+      <line x1="1136" y1="56" x2="1136" y2="228"/>
+    </g>
+    <g fill="url(#span)">
+      <rect x="756" y="66"  width="330" height="12" rx="6" opacity="0.95"/>
+      <rect x="790" y="90"  width="212" height="12" rx="6" opacity="0.80"/>
+      <rect x="812" y="114" width="288" height="12" rx="6" opacity="0.68"/>
+      <rect x="768" y="138" width="150" height="12" rx="6" opacity="0.86"/>
+      <rect x="880" y="162" width="246" height="12" rx="6" opacity="0.58"/>
+      <rect x="800" y="186" width="196" height="12" rx="6" opacity="0.72"/>
+      <rect x="836" y="210" width="272" height="12" rx="6" opacity="0.46"/>
+    </g>
+    <g fill="#2DD4BF">
+      <circle cx="1086" cy="72"  r="3.5"/>
+      <circle cx="1002" cy="96"  r="3.5" opacity="0.8"/>
+      <circle cx="1100" cy="120" r="3.5" opacity="0.7"/>
+      <circle cx="918"  cy="144" r="3.5" opacity="0.85"/>
+      <circle cx="1126" cy="168" r="3.5" opacity="0.6"/>
+      <circle cx="996"  cy="192" r="3.5" opacity="0.75"/>
+      <circle cx="1108" cy="216" r="3.5" opacity="0.5"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="14" fill="none" stroke="#232B3A"/>
+</svg>
