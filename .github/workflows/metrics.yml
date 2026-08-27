@@ -20,6 +20,7 @@ jobs:
           filename: metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Seoul
 
           plugin_languages: yes
@@ -43,6 +44,13 @@ jobs:
             a { color: #A78BFA; }
             section { border-color: #232B3A; }
             .field, .value, .subtitle, footer { color: #8B949E; }
+            /* isocalendar 는 CSS 변수를 쓰지 않고 fill 속성을 직접 지정하므로 속성으로 덮어쓴다 */
+            [fill="#ebedf0"] { fill: #161B26; }
+            [fill="#d1d5da"] { fill: #232B3A; }
+            [fill="#9be9a8"] { fill: #3B2E6E; }
+            [fill="#40c463"] { fill: #5B3FB0; }
+            [fill="#30a14e"] { fill: #7F52FF; }
+            [fill="#216e39"] { fill: #2DD4BF; }
             :root {
               --color-calendar-graph-day-bg: #161B26;
               --color-calendar-graph-day-border: rgba(255,255,255,0.06);
