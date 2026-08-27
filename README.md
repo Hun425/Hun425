@@ -75,7 +75,7 @@
 ## Activity
 
 <div align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="./metrics.svg" alt="GitHub metrics"/>
 </div>
 
 ## Certification
