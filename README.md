@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://velog.io/@chae0738/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog"/></a>&nbsp;<a href="https://hun425.github.io"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=GitHub&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://solved.ac/chae0738"><img src="https://img.shields.io/badge/solved.ac-3B82F6?style=flat-square&logoColor=white" alt="solved.ac"/></a>&nbsp;<a href="mailto:chae0738@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Hun425&label=Profile%20views&color=A78BFA&style=flat-square" alt="Profile views"/>
+<a href="https://velog.io/@chae0738/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog"/></a>&nbsp;<a href="https://solved.ac/chae0738"><img src="https://img.shields.io/badge/solved.ac-3B82F6?style=flat-square&logoColor=white" alt="solved.ac"/></a>&nbsp;<a href="mailto:chae0738@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Hun425&label=Profile%20views&color=A78BFA&style=flat-square" alt="Profile views"/>
 
 </div>
 
